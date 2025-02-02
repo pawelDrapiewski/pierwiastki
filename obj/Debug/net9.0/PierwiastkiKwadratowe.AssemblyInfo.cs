@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PierwiastkiKwadratowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4093af558ed186c1c7b59924419c0589d891dd56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52180cf180802734e0e8c00002a704661c85d626")]
 [assembly: System.Reflection.AssemblyProductAttribute("PierwiastkiKwadratowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PierwiastkiKwadratowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
